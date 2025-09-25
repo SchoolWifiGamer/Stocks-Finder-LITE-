@@ -1,2 +1,2 @@
-# Stocks-Finder-LITE-
+# Stocks-Finder-LITE
 Very accurate (trust) 
